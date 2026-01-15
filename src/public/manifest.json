@@ -1,0 +1,29 @@
+{
+  "name": "SHL Game Center",
+  "short_name": "SHL Center",
+  "description": "Swedish Hockey League Live Match Center - Real-time scores, stats, and news",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00102A",
+  "theme_color": "#E50036",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Swedish_Hockey_League_logo.svg/192px-Swedish_Hockey_League_logo.svg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Swedish_Hockey_League_logo.svg/512px-Swedish_Hockey_League_logo.svg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["sports", "entertainment", "news"],
+  "lang": "en-US",
+  "dir": "ltr",
+  "scope": "/",
+  "prefer_related_applications": false
+}
