@@ -1,4 +1,4 @@
-﻿# SHL Game Center - Complete Features List 🏒
+# SHL Game Center - Complete Features List 🏒
 
 ## ✨ **Latest Enhancements (Just Added!)**
 

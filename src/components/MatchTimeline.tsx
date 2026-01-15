@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Goal, AlertTriangle } from 'lucide-react';
 
 interface TimelineEvent {

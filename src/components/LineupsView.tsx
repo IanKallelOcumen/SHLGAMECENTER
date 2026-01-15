@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { User, Shield, Zap, Target, Activity } from 'lucide-react';
 
 interface Player {

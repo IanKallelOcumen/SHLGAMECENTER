@@ -1,4 +1,4 @@
-﻿# 📬 Submission Guide for Sportality Job Application
+# 📬 Submission Guide for Sportality Job Application
 
 ## 🎯 **What You're Submitting**
 

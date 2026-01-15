@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Facebook, Twitter, Instagram, Youtube } from 'lucide-react';
 import sebLogo from 'figma:asset/c3daad1785d289ba91aab854444945543110ba82.png';
 import tryggHansaLogo from 'figma:asset/ba41ea0ffb0ff67e79a46bdeeaa9f85bb2c2949d.png';

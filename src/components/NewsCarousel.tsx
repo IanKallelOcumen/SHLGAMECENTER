@@ -1,4 +1,4 @@
-﻿import React, { useRef, useEffect, useState } from 'react';
+import React, { useRef, useEffect, useState } from 'react';
 import { Newspaper, ChevronLeft, ChevronRight, ArrowRight } from 'lucide-react';
 
 interface NewsCarouselProps {

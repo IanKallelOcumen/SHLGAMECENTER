@@ -1,4 +1,4 @@
-﻿# ✅ Footer Social Links Update
+# ✅ Footer Social Links Update
 
 ## 🔗 **Updated Social Media Links**
 

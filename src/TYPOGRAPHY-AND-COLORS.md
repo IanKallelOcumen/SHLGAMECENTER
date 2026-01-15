@@ -1,4 +1,4 @@
-﻿# ✨ SHL Game Center - Typography & Color Update Summary
+# ✨ SHL Game Center - Typography & Color Update Summary
 
 ## 🎨 **What Changed**
 

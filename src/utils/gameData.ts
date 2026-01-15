@@ -1,4 +1,4 @@
-﻿// Import team logos
+// Import team logos
 import farjestadLogo from 'figma:asset/71ce8ec20de21eec67bb31085808f63bd01f48a7.png';
 import brynasLogo from 'figma:asset/a8b0b21833169f0c6826647f73042c985332aca7.png';
 import difLogo from 'figma:asset/8277e89488b4c302ad6574b22058e65ba33b43e6.png';

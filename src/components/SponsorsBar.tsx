@@ -1,4 +1,4 @@
-﻿import { ImageWithFallback } from './figma/ImageWithFallback';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 // Import sponsor logos (the real ones you provided)
 import amazonLogo from 'figma:asset/8052f2d4e05f96c926fed0dd9fe6b2976327e7a4.png';

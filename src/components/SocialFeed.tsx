@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { MessageCircle, Heart, Share2, Twitter } from 'lucide-react';
 
 interface SocialFeedProps {

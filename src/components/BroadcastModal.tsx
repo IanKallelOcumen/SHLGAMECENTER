@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { MonitorPlay, X, ExternalLink } from 'lucide-react';
 
 interface BroadcastModalProps {

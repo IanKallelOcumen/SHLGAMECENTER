@@ -1,4 +1,4 @@
-﻿import React from 'react';
+import React from 'react';
 import { Zap, Goal, AlertTriangle, Users } from 'lucide-react';
 
 interface KeyMomentsProps {

@@ -1,4 +1,4 @@
-﻿# ✅ Hero Buttons & Unsplash Images - All Fixed!
+# ✅ Hero Buttons & Unsplash Images - All Fixed!
 
 ## 🎯 **Issues Fixed**
 
