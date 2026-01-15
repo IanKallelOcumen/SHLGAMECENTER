@@ -1,4 +1,4 @@
-# ✨ Lineups & H2H Enhancements - Dead Space Eliminated!
+﻿# ✨ Lineups & H2H Enhancements - Dead Space Eliminated!
 
 ## 🎯 **Problem Solved**
 

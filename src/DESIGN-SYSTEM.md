@@ -1,4 +1,4 @@
-# SHL Game Center - Official Design System 🎨🏒
+﻿# SHL Game Center - Official Design System 🎨🏒
 
 ## 📐 **Typography System**
 

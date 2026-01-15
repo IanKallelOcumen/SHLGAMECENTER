@@ -1,0 +1,22 @@
+{
+  "files.eol": "\n",
+  "files.endOfLine": "lf",
+  "[typescript]": {
+    "files.eol": "\n"
+  },
+  "[typescriptreact]": {
+    "files.eol": "\n"
+  },
+  "[json]": {
+    "files.eol": "\n"
+  },
+  "[markdown]": {
+    "files.eol": "\n"
+  },
+  "[html]": {
+    "files.eol": "\n"
+  },
+  "[css]": {
+    "files.eol": "\n"
+  }
+}

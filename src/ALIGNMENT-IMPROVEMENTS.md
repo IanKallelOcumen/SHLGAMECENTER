@@ -1,4 +1,4 @@
-# ✨ Hero Section Alignment Improvements
+﻿# ✨ Hero Section Alignment Improvements
 
 ## 🎯 **What Was Fixed**
 

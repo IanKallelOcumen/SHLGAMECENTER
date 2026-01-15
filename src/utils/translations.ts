@@ -1,4 +1,4 @@
-export const TRANSLATIONS = {
+﻿export const TRANSLATIONS = {
   EN: {
     upcoming: "Upcoming",
     live: "Live",

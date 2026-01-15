@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { Clock, MonitorPlay, Share2, Download, Bell } from 'lucide-react';
 import { Button } from './Button';
 import { LiveIndicator } from './LiveIndicator';

@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Trophy, Target, TrendingUp, Calendar, Award, Flame } from 'lucide-react';
 
 interface H2HMatch {

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+﻿import React, { useState } from 'react';
 import { TrendingUp, Users } from 'lucide-react';
 import { Button } from './Button';
 

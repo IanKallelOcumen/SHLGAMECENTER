@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { 
   Menu, Globe, Sun, Moon, ExternalLink, ChevronDown, X,
   Layout, Video, MessageCircle, MoreHorizontal, Trophy

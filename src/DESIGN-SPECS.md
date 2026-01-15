@@ -1,4 +1,4 @@
-# SHL Game Center - Complete Design Specifications 🎨
+﻿# SHL Game Center - Complete Design Specifications 🎨
 
 ## 📐 **Layout & Grid System**
 

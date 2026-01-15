@@ -1,4 +1,4 @@
-# ✅ News Carousel Infinite Loop + All Logos Fixed!
+﻿# ✅ News Carousel Infinite Loop + All Logos Fixed!
 
 ## 🎯 **Issues Fixed**
 

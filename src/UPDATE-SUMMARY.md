@@ -1,4 +1,4 @@
-# 🎉 SHL Game Center - Complete Update Summary
+﻿# 🎉 SHL Game Center - Complete Update Summary
 
 ## ✅ **What Was Updated**
 

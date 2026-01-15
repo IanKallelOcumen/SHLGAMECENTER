@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { NewsCarousel } from './components/NewsCarousel';
@@ -32,12 +32,38 @@ export default function App() {
   const t = TRANSLATIONS[lang];
   const gameData = getGameData(lang);
 
-  // Load theme and language from localStorage
+  // Load theme and language from localStorage, detect system preference
   useEffect(() => {
     const savedTheme = localStorage.getItem('shl-theme');
     const savedLang = localStorage.getItem('shl-lang');
-    if (savedTheme === 'dark') setIsDark(true);
+    
+    // Check system dark mode preference
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    
+    // Use saved preference if exists, otherwise use system preference
+    if (savedTheme === 'dark') {
+      setIsDark(true);
+    } else if (savedTheme === 'light') {
+      setIsDark(false);
+    } else {
+      setIsDark(prefersDark);
+    }
+    
     if (savedLang === 'SV') setLang('SV');
+  }, []);
+
+  // Listen for system dark mode changes
+  useEffect(() => {
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleChange = (e: MediaQueryListEvent) => {
+      // Only apply if user hasn't manually set a preference
+      if (!localStorage.getItem('shl-theme')) {
+        setIsDark(e.matches);
+      }
+    };
+    
+    mediaQuery.addEventListener('change', handleChange);
+    return () => mediaQuery.removeEventListener('change', handleChange);
   }, []);
 
   // Save theme preference

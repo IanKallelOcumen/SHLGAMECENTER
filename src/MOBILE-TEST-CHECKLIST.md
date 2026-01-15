@@ -1,4 +1,4 @@
-# 📱 Mobile & Responsive Testing Checklist
+﻿# 📱 Mobile & Responsive Testing Checklist
 
 ## 🎯 **Testing Instructions**
 

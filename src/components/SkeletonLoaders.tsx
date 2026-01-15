@@ -1,4 +1,4 @@
-import React from 'react';
+﻿import React from 'react';
 import { Skeleton } from './ui/skeleton';
 
 export const HeroSkeleton: React.FC<{ isDark: boolean }> = ({ isDark }) => (
